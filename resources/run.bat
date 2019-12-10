@@ -1,0 +1,1 @@
+java -classpath ".;.\libs\*" cz.zettel.algorithms.Example
